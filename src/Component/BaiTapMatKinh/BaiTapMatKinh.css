@@ -1,0 +1,21 @@
+.picture {
+
+    width: 300px;
+    position: relative;
+}
+.picture__content {
+    background-color: #fcaf7c;
+    opacity: 0.6;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    
+}
+.picture__glasses {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    width: 160px;
+    height: 60px;
+    opacity: 0.8;
+}
